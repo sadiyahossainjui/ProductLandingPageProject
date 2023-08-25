@@ -1,0 +1,72 @@
+/* Default styles for larger screens */
+#nav-bar {
+    /* Original styling for nav-bar */
+}
+
+/* Media query for screens with a maximum width of 768px */
+@media screen and (max-width: 768px) {
+    #nav-bar {
+        position: fixed;
+        top: 0;
+        /* Adjusted styling for smaller screens */
+    }
+    #nav-bar {
+    display: flex;
+    justify-content: space-around; /* Distribute items evenly */
+    align-items: center; /* Vertically center items */
+    position: fixed;
+    top: 0;
+    /* Other styling properties */
+}
+
+.nav-link {
+    /* Styling for each navigation link */
+}
+
+    
+    /* Other styles for elements at smaller screen sizes */
+}
+
+
+/* Apply styling to header */
+#header {
+    /* Your styling here */
+}
+
+/* Apply styling to header image */
+#header-img {
+    /* Your styling here */
+}
+
+/* Apply styling to nav bar */
+
+
+/* Apply styling to nav links */
+.nav-link {
+    /* Your styling here */
+}
+
+/* Apply styling to sections */
+#section1, #section2, #section3 {
+    /* Your styling here */
+}
+
+/* Apply styling to video */
+#video {
+    /* Your styling here */
+}
+
+/* Apply styling to form */
+#form {
+    /* Your styling here */
+}
+
+/* Apply styling to email input */
+#email {
+    /* Your styling here */
+}
+
+/* Apply styling to submit button */
+#submit {
+    /* Your styling here */
+}
